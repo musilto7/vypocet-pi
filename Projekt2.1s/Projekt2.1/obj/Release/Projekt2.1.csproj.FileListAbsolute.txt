@@ -1,0 +1,15 @@
+C:\Users\Tomáš\AppData\Local\Temporary Projects\Projekt2.1\bin\Release\Projekt2.1.exe
+C:\Users\Tomáš\AppData\Local\Temporary Projects\Projekt2.1\bin\Release\Projekt2.1.pdb
+C:\Users\Tomáš\AppData\Local\Temporary Projects\Projekt2.1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Tomáš\AppData\Local\Temporary Projects\Projekt2.1\obj\Release\Projekt2.1.exe
+C:\Users\Tomáš\AppData\Local\Temporary Projects\Projekt2.1\obj\Release\Projekt2.1.pdb
+C:\Users\Tomáš\Documents\Visual Studio 2008\Projects\Projekt2.1\Projekt2.1\obj\Release\Projekt2.1.exe
+C:\Users\Tomáš\Documents\Visual Studio 2008\Projects\Projekt2.1\Projekt2.1\obj\Release\Projekt2.1.pdb
+C:\Users\Tomáš\Documents\Visual Studio 2008\Projects\Projekt2.1\Projekt2.1\bin\Release\Projekt2.1.exe
+C:\Users\Tomáš\Documents\Visual Studio 2008\Projects\Projekt2.1\Projekt2.1\bin\Release\Projekt2.1.pdb
+C:\Users\Tomáš\Documents\Visual Studio 2008\Projects\Projekt2.1\Projekt2.1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Tomáš\Documents\Visual Studio 2008\Projects\Projekt2.1s\Projekt2.1\obj\Release\Projekt2.1.exe
+C:\Users\Tomáš\Documents\Visual Studio 2008\Projects\Projekt2.1s\Projekt2.1\obj\Release\Projekt2.1.pdb
+C:\Users\Tomáš\Documents\Visual Studio 2008\Projects\Projekt2.1s\Projekt2.1\bin\Release\Projekt2.1.exe
+C:\Users\Tomáš\Documents\Visual Studio 2008\Projects\Projekt2.1s\Projekt2.1\bin\Release\Projekt2.1.pdb
+C:\Users\Tomáš\Documents\Visual Studio 2008\Projects\Projekt2.1s\Projekt2.1\obj\Release\ResolveAssemblyReference.cache

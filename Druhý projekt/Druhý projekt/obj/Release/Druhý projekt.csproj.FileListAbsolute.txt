@@ -1,0 +1,10 @@
+C:\Users\Tomáš\AppData\Local\Temporary Projects\Druhý projekt\bin\Release\Druhý projekt.exe
+C:\Users\Tomáš\AppData\Local\Temporary Projects\Druhý projekt\bin\Release\Druhý projekt.pdb
+C:\Users\Tomáš\AppData\Local\Temporary Projects\Druhý projekt\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Tomáš\AppData\Local\Temporary Projects\Druhý projekt\obj\Release\Druhý projekt.exe
+C:\Users\Tomáš\AppData\Local\Temporary Projects\Druhý projekt\obj\Release\Druhý projekt.pdb
+C:\Users\Tomáš\Documents\Visual Studio 2008\Projects\Druhý projekt\Druhý projekt\obj\Release\Druhý projekt.exe
+C:\Users\Tomáš\Documents\Visual Studio 2008\Projects\Druhý projekt\Druhý projekt\obj\Release\Druhý projekt.pdb
+C:\Users\Tomáš\Documents\Visual Studio 2008\Projects\Druhý projekt\Druhý projekt\bin\Release\Druhý projekt.exe
+C:\Users\Tomáš\Documents\Visual Studio 2008\Projects\Druhý projekt\Druhý projekt\bin\Release\Druhý projekt.pdb
+C:\Users\Tomáš\Documents\Visual Studio 2008\Projects\Druhý projekt\Druhý projekt\obj\Release\ResolveAssemblyReference.cache
